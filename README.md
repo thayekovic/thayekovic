@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on my Front-end Development's skills
 - 🌱 I’m currently learning Javascript, Java, React
 - 😄 Pronouns: She/Her
+- 🐱‍👤 I started my career as a Graphic Designer 
 
 <div style="display: inline_block"><br>
     <img align="center" alt="thayekovic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
