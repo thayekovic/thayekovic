@@ -3,8 +3,6 @@
 
 
 - 🔭 I’m currently working on my Front-end Development's skills
-- 🌱 I’m currently learning Javascript, Java, React
-- 😄 Pronouns: She/Her
 - 🤓 I've started my career as a Graphic Designer 
 
 <div style="display: inline_block"><br>
